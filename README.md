@@ -34,7 +34,7 @@ Obrigado pela oportunidade, abaixo, deixo minhas competencias, espero poder cont
 </div>
 
 -----
-<div>
+<div align="center">
 <h3> Estou aprendendo...</h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"  width= 80px>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"  width= 80px>
@@ -42,4 +42,5 @@ Obrigado pela oportunidade, abaixo, deixo minhas competencias, espero poder cont
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg "  width= 80px>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"  width= 80px>
 </div>
+
 ----
